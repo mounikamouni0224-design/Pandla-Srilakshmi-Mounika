@@ -66,7 +66,6 @@ Worked on creating and managing an Employee Raise Issue in the ServiceNow portal
 - **GitHub:** [@mounikamouni0224-design](https://github.com/mounikamouni0224-design)
 - **LinkedIn:** [pandla-srilakshmi-mounika-9ba6b030a](https://linkedin.com/in/pandla-srilakshmi-mounika-9ba6b030a)
 - **Email:** 📧 mounikamouni0224@gmail.com
-- **Portfolio:** [My Portfolio](file:///C:/Users/lakshman/Downloads/index.html/INDEX.html)
 
 ---
 
